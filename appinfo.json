@@ -1,0 +1,186 @@
+{
+  "uuid": "b1230861-d4eb-4f7e-a2d0-eaa2a08897df",
+  "shortName": "Tomz Big Jp3",
+  "longName": "Tomz Big Time Japanese v3",
+  "companyName": "Tom Fukushima",
+  "versionCode": 3,
+  "versionLabel": "3.3",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+        "KEY_MINUTE_COLOR_R": 0,
+        "KEY_MINUTE_COLOR_G": 1,
+        "KEY_MINUTE_COLOR_B": 2,
+        "KEY_HOUR_COLOR_R": 3,
+        "KEY_HOUR_COLOR_G": 4,
+        "KEY_HOUR_COLOR_B": 5
+  },
+  "capabilities": [
+    "configurable"
+  ],
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_0",
+        "file": "images/time_0.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_1",
+        "file": "images/time_1.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_2",
+        "file": "images/time_2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_3",
+        "file": "images/time_3.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_4",
+        "file": "images/time_4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_5",
+        "file": "images/time_5.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_6",
+        "file": "images/time_6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_7",
+        "file": "images/time_7.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_8",
+        "file": "images/time_8.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TIME_9",
+        "file": "images/time_9.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_0",
+        "file": "images/small_0.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_1",
+        "file": "images/small_1.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_2",
+        "file": "images/small_2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_3",
+        "file": "images/small_3.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_4",
+        "file": "images/small_4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_5",
+        "file": "images/small_5.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_6",
+        "file": "images/small_6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_7",
+        "file": "images/small_7.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_8",
+        "file": "images/small_8.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SMALL_DIGIT_9",
+        "file": "images/small_9.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DAY_0",
+        "file": "images/day_0.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DAY_1",
+        "file": "images/day_1.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DAY_2",
+        "file": "images/day_2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DAY_3",
+        "file": "images/day_3.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DAY_4",
+        "file": "images/day_4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DAY_5",
+        "file": "images/day_5.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_DAY_6",
+        "file": "images/day_6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SLASH",
+        "file": "images/slash.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BATTERY",
+        "file": "images/battery_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_CHARGING",
+        "file": "images/battery_charge.png"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
